@@ -1,7 +1,7 @@
 {
   "name": "teakacang",
   "version": "1.1.2",
-  "private": False,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
